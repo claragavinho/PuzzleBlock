@@ -1,0 +1,3 @@
+Press F to pick up bucket
+Press E to pick up the block
+Place the block with the correct color in the pressure plate
